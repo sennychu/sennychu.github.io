@@ -1,4 +1,4 @@
 sennyrepo
 =========
 
-my repo to dropbox
+my local repo to dropbox
