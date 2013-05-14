@@ -1,7 +1,7 @@
-sennyrepo
+sennymbp github page repo
 =========
 
-my local repo to dropbox
+my local repo to github
 
 Welcome to My First Repo
 -------------------------------
